@@ -20,7 +20,7 @@ Order ID, Sales Amount, Profit, Quantity, Category & Sub-Category, Customer Name
 The dataset represents realistic ecommerce business operations and is used for analytical and educational purposes.
 
 5. Screenshot-
-   The dashboard looks like-
+   The dashboard looks like - https://github.com/Anwesha27/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.png
 
 7. Dashboard Features & Visuals
 KPI Cards for Sales, Profit, Quantity, and AOV
